@@ -6,6 +6,8 @@
 
 <h2>Sobre mim:</h2>
 
+Me chamo Marcio, tenho 25 anos, o hobbie que tem um lugar especial no meu coração, é passar tempo descobrindo coisas novas sobre neurociência e psicologia, é muito interessante para mim o funcionamento do cérebro, as emoções e os efeitos delas no corpo humano.
+
 Sou formado em Gestão de Pessoas, porém estou em transição de carreira para a área de Desenvolvimento Front-End.
 
 Me interessei por Desenvolvimento Web quando descobri que nessa área apesar das hard skills serem muito importantes, também se valoriza muito as softs skills por serem centrais nas relações interpessoais de um time de desenvolvedores, possibilitando assim que eu use o conhecimento das duas áreas nessa nova jornada no Desenvolvimento Web.
