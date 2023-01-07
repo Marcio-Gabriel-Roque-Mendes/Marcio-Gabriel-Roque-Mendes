@@ -20,6 +20,8 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
 
 </div>
  
+ <h2>Meus conhecimentos</h2>
+ 
  ### Linguagens:
   <img align="center" alt="JS"
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -63,8 +65,9 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux icon"/>
   <img align="center" alt="NETLIFY"
        src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Linux icon"/>
- 
-  ### Contate-me:
+  </div>
+
+ <h2>Contate-me:</h2>
  <a href="https://www.linkedin.com/in/marcio-gabriel-roque/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
@@ -72,5 +75,3 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
  <a href="mailto:marcio_2411@hotmail.com">
  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
  </a>
-  </div>
-
