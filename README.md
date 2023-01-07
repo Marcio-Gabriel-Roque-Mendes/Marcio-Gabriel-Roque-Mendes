@@ -1,7 +1,7 @@
 <p align="center">
  <h1 align="center">Olá, Bem vindo ao meu perfil 👋 </h1>
  <h2 align="center">Eu sou Marcio Gabriel</h2>
- <h5 align="center">Desenvolvedor Front-End</h5>
+ <h3 align="center">Desenvolvedor Front-End</h3>
 </p>
 
 <h2>Sobre mim:</h2>
