@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+ <h1 align="center">Olá, Bem vindo ao meu perfil 👋 </h1>
+ <h2 align="center">Eu sou Marcio Gabriel</h2>
+ <h5 align="center">Desenvolvedor Front-End</h5>
+</p>
 
-<!--
-**Marcio-Gabriel-Roque-Mendes/Marcio-Gabriel-Roque-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estatísticas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block" align="center">
+  
+  <a href="https://github.com/Marcio-Gabriel-Roque-Mendes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel-Roque-Mendes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel-Roque-Mendes&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
