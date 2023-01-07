@@ -17,8 +17,8 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
   <a href="https://github.com/Marcio-Gabriel-Roque-Mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel-Roque-Mendes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel-Roque-Mendes&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
+</div>
  ### Linguagens:
   <img align="center" alt="JS"
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -62,4 +62,15 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux icon"/>
   <img align="center" alt="NETLIFY"
        src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Linux icon"/>
-</div>
+ 
+  ### Contate-me:
+ <a href="https://www.linkedin.com/in/marcio-gabriel-roque/">
+ <img align="center" alt="LINKEDIN"
+       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="mailto=">
+ <img align="center" alt="OUTLOOK"
+       src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+ </a>
+  </div>
+
