@@ -19,6 +19,7 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel-Roque-Mendes&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
+ 
  ### Linguagens:
   <img align="center" alt="JS"
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -70,8 +71,7 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
  </a>
  
  <a href="mailto=marcio_2411@hotmail.com">
- <img align="center" alt="OUTLOOK"
-       src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/ target="_blank">
+ <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  </a>
   </div>
 
