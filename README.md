@@ -4,9 +4,13 @@
  <h5 align="center">Desenvolvedor Front-End</h5>
 </p>
 
+<h2>Sobre mim:</h2>
 
-<h3 align="center">Estatísticas: </h3>
+Sou formado em Gestão de Pessoas, porém estou em transição de carreira para a área de Desenvolvimento Front-End.
 
+Me interessei por Desenvolvimento Web quando descobri que nessa área apesar das hard skills serem muito importantes, também se valoriza muito as softs skills por serem centrais nas relações interpessoais de um time de desenvolvedores, possibilitando assim que eu use o conhecimento das duas áreas nessa nova jornada no Desenvolvimento Web.
+
+Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de 1.500 horas, onde adquiri conhecimentos em JavaScript , HTML/CSS, TypeScript, Node, conhecimento em frameworks como React, Context Api e Redux, Jest, RTL, Git/Git Hub, Docker, bem como metodologias ágeis (Scrum e Kanban).
 
 <div style="display: inline_block" align="center">
   
