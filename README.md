@@ -66,8 +66,7 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
  
   ### Contate-me:
  <a href="https://www.linkedin.com/in/marcio-gabriel-roque/">
- <img align="center" alt="LINKEDIN"
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ target="_blank">
  </a>
  
  <a href="mailto:marcio_2411@hotmail.com">
