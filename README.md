@@ -46,6 +46,8 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Jest icon"/>
  <img align="center" alt="BOOTSTRAP"
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img align="center" alt="NPM"
+ src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <hr />
 
   ### Banco de Dados e outras ferramentas:
