@@ -49,7 +49,11 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
  <img align="center" alt="BOOTSTRAP"
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img align="center" alt="NPM"
- src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img align="center" alt="ESLINT" 
+    src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> 
+ <img align="center" alt="PRETTIER" 
+    src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> 
   <hr />
 
   ### Banco de Dados e outras ferramentas:
