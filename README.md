@@ -67,6 +67,8 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
     src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="VSCODE"
     src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
+  <img align="center" alt="SHELL"
+    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img align="center" alt="LINUX"
        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux icon"/>
   <img align="center" alt="NETLIFY"
