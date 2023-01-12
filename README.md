@@ -73,6 +73,10 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux icon"/>
   <img align="center" alt="NETLIFY"
        src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Linux icon"/>
+  <img align="center" alt="SLACK"
+       src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img align="center" alt="ZOOM"
+       src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
   </div>
 
  <h2>Contate-me:</h2>
