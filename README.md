@@ -17,7 +17,7 @@ Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de
 <div style="display: inline_block" align="center">
   
   <a href="https://github.com/Marcio-Gabriel-Roque-Mendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Gabriel-Roque-Mendes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcio-Gabriel-Roque-Mendes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Gabriel-Roque-Mendes&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
