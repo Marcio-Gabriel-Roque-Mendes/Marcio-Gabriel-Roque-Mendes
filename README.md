@@ -12,7 +12,7 @@ Sou formado em Gestão de Pessoas, porém estou em transição de carreira para 
 
 Me interessei por Desenvolvimento Web quando descobri que nessa área apesar das hard skills serem muito importantes, também se valoriza muito as softs skills por serem centrais nas relações interpessoais de um time de desenvolvedores, possibilitando assim que eu use o conhecimento das duas áreas nessa nova jornada no Desenvolvimento Web.
 
-Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de 1.500 horas, onde adquiri conhecimentos em JavaScript , HTML/CSS, TypeScript, Node, conhecimento em frameworks como React, Context Api e Redux, Jest, RTL, Git/Git Hub, Docker, bem como metodologias ágeis (Scrum e Kanban), atualmente estudo Python, a previsão de formatura é para março/2023.
+Sou aluno no curso de desenvolvimento Full Stack da Trybe, com carga horária de 1.500 horas, onde adquiri conhecimentos em JavaScript , HTML/CSS, TypeScript, Node, conhecimento em frameworks como React, Context Api e Redux, Jest, RTL, Git/Git Hub, Docker, bem como metodologias ágeis (Scrum e Kanban), atualmente estudo Python, a previsão de formatura é para abril/2023.
 
 <div style="display: inline_block" align="center">
   
